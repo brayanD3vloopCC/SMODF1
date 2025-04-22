@@ -4,8 +4,8 @@
 ## Concepto:
 "SMODFalc b1" -> sistema web de vision artificial, en renderizacion 3D en imagenes y reconocimiento de estructuras
 
-Este primer modelo web de Vision Artificial denominado SMODF1 en su desarrollo base
-presenta caracteristicas funcionales: 
+Este primer modelo web de Vision Artificial denominado SMODF1 desarrollando en Django presenta para su (first) desarrollo base
+las siguientes caracteristicas funcionales: 
 
 * capacidad de extraer y digitalizar en un visor 3d (web) desde una imagen fuente a 3d mediante una construccion de proceso intermedio
 * la deteccion y reconstruccion de area desde pequeños fragmentos o metadatos que tiene la imagen o artefacto.
@@ -13,6 +13,7 @@ presenta caracteristicas funcionales:
 * Reporte de posiciones.
 
 ## Descripcion
+
 El modelo SMODF1 esta desarrollado en python - Cpython - en Django para el CRUD Tambien que en sus caracteristicas basicas 
 este sistema de vision artificial , contiene un visur de reconstruccion por la interfaz y contenido dependiente del algoritmo 
 a ejecutarse cada version si llega a cambiar bastante el area que se reconoce a la deteccion que presenta el formato de imagen.
